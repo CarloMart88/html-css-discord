@@ -20,7 +20,7 @@
   justify-content: center;
 }
 
-.orange {
+.box-25 {
   background-color: #3160E0;
   border: 3px dotted black;
   width: 25%;
@@ -28,10 +28,36 @@
   text-align: center;
   padding: 10px;
   color: white;
+  ;
 
 }
 
-.orange1 {
+.size {
+  width: 30px;
+  height: 30px;
+}
+
+.left {
+  text-align: left;
+
+}
+
+.right {
+  text-align: right;
+
+}
+
+.button25 {
+  background-color: white;
+  height: 30px;
+  width: 75px;
+  border-radius: 25px;
+  line-height: 30px;
+  margin: 10px;
+
+}
+
+.box-50 {
   background-color: #3160E0;
   border: 3px dotted black;
   width: 50%;
@@ -40,6 +66,13 @@
   padding: 10px;
   color: white;
 
+
+}
+
+.box-50 ul li {
+  list-style: none;
+  display: inline;
+  margin: 0 10px;
 }
 
 .bg-blu {
