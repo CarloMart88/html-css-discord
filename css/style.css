@@ -228,6 +228,7 @@ body {
 
 h3 {
   background-image: url(/assets/img/stars.svg);
+
 }
 
 .star {
@@ -274,6 +275,7 @@ h2 {
 .pink ul li {
   list-style: none;
   color: white;
+  padding-top: 10px;
 }
 
 .logo {
@@ -284,8 +286,14 @@ h2 {
 }
 
 i {
-  padding: 20px 10px;
   color: white;
+  padding: 10px;
+}
+
+.base {
+  list-style: none;
+  color: white;
+  margin: 0 15px;
 }
 
 .celeste {
@@ -294,6 +302,16 @@ i {
   height: 95%;
   display: flex;
   border: 2px dotted white;
+  justify-content: center;
+  padding: 30px 20px;
+}
+
+.viola {
+  color: #96A7E5;
+}
+
+.celeste ul li {
+  padding-top: 10px;
 }
 
 .rose {
