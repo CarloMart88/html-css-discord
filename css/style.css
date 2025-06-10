@@ -218,7 +218,7 @@ body {
 
 h3 {
   background-image: url(/assets/img/stars.svg);
-
+  text-align: center;
 }
 
 .star {
@@ -227,6 +227,7 @@ h3 {
   flex-direction: column;
 
 }
+
 
 .bt-purple {
   background-color: #96A7E5;
