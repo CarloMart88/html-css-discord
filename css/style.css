@@ -147,6 +147,17 @@ body {
 
 }
 
+.onde {
+  background-image: url(/assets/img/wave.svg);
+  height: 50px;
+}
+
+.onde-1 {
+  background-image: url(/assets/img/wave.svg);
+  height: 50px;
+  transform: scaleY(-1);
+
+}
 
 .col-70 {
   background-color: #1E90FF;
