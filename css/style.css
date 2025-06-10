@@ -4,12 +4,17 @@
   box-sizing: border-box;
 }
 
+body {
+  max-width: 1200px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
+
 .menu {
   padding: 20px 0;
   width: 800px;
   height: 100px;
   display: flex;
-  justify-content: space-between;
 }
 
 
@@ -26,15 +31,16 @@
   width: 25%;
   height: 50px;
   text-align: center;
-  padding: 10px;
   color: white;
-  ;
 
 }
 
-.size {
-  width: 30px;
-  height: 30px;
+.discord {
+
+  height: 50px;
+  width: 80px;
+  display: flex;
+  justify-content: center;
 }
 
 .left {
@@ -43,9 +49,12 @@
 }
 
 .right {
+  padding: 10px;
   text-align: right;
 
+
 }
+
 
 .button25 {
   background-color: white;
@@ -53,7 +62,6 @@
   width: 75px;
   border-radius: 25px;
   line-height: 30px;
-  margin: 10px;
 
 }
 
