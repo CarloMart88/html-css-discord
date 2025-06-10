@@ -36,7 +36,6 @@ body {
 }
 
 .discord {
-
   height: 50px;
   width: 80px;
   display: flex;
@@ -84,7 +83,8 @@ body {
 }
 
 .bg-blu {
-  background-color: #00018B;
+  background-image: url(/assets/img/jumbo.png);
+  background-size: cover;
   height: 300px;
   display: flex;
   justify-content: center;
