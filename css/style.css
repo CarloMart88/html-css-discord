@@ -162,7 +162,10 @@ body {
   height: 60%;
   display: flex;
   border: 4px dotted black;
+  flex-direction: column;
 }
+
+
 
 .bg-white {
   background-color: white;
