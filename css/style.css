@@ -237,7 +237,7 @@ h3 {
 
 }
 
-.bt-white {
+.bt-purple {
   background-color: #96A7E5;
   height: 30px;
   width: 150px;
@@ -248,20 +248,44 @@ h3 {
   color: white;
 }
 
-
 .bg-black {
-  background-color: black;
+  background-color: #23272A;
   display: flex;
   justify-content: center;
 
 }
 
 .pink {
+
   background-color: #F08180;
   width: 40%;
   height: 95%;
-  display: flex;
+  display: inline;
   border: 2px dotted white;
+  padding: 30px 20px;
+
+}
+
+h2 {
+  padding-bottom: 30px;
+  color: #96A7E5;
+}
+
+.pink ul li {
+  list-style: none;
+  color: white;
+}
+
+.logo {
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+
+}
+
+i {
+  padding: 20px 10px;
+  color: white;
 }
 
 .celeste {
@@ -283,6 +307,7 @@ h3 {
 
 
 .bg-turquoise {
+  justify-content: space-between;
   margin-top: 20px;
   background-color: #7FFFD4;
 }
