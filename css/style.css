@@ -76,6 +76,12 @@ body {
 
 }
 
+.txt-white {
+  text-align: center;
+  color: white;
+
+}
+
 .box-50 ul li {
   list-style: none;
   display: inline;
@@ -91,12 +97,44 @@ body {
   align-items: center;
 }
 
+.button50 {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+
+}
+
+.bt-white {
+  background-color: white;
+  height: 30px;
+  width: 150px;
+  border-radius: 25px;
+  line-height: 30px;
+  font-weight: bold;
+  line-height: 30px;
+}
+
+.bt-black {
+  background-color: black;
+  height: 30px;
+  width: 250px;
+  border-radius: 25px;
+  line-height: 30px;
+  color: white;
+  font-weight: bold;
+  line-height: 30px;
+}
+
 .square-small {
   border: 3px dotted black;
-  background-color: #EF82ED;
   width: 600px;
-  height: 200px;
+  height: 250px;
 
+
+}
+
+.y-20 {
+  padding-top: 25px;
 }
 
 .container {
