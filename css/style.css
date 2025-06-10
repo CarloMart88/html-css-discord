@@ -226,6 +226,29 @@ body {
 
 }
 
+h3 {
+  background-image: url(/assets/img/stars.svg);
+}
+
+.star {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+
+}
+
+.bt-white {
+  background-color: #96A7E5;
+  height: 30px;
+  width: 150px;
+  border-radius: 25px;
+  line-height: 30px;
+  font-weight: bold;
+  line-height: 30px;
+  color: white;
+}
+
+
 .bg-black {
   background-color: black;
   display: flex;
@@ -257,6 +280,7 @@ body {
   text-align: center;
 
 }
+
 
 .bg-turquoise {
   margin-top: 20px;
