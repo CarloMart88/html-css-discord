@@ -16,27 +16,30 @@
 
 .bg-lightblu {
   display: flex;
-  background-color: #ADD8E7;
+  background-color: #3160E0;
   justify-content: center;
 }
 
 .orange {
-  background-color: #DAA61C;
+  background-color: #3160E0;
   border: 3px dotted black;
   width: 25%;
   height: 50px;
   text-align: center;
   padding: 10px;
+  color: white;
 
 }
 
 .orange1 {
-  background-color: #DAA61C;
+  background-color: #3160E0;
   border: 3px dotted black;
   width: 50%;
   height: 50px;
   text-align: center;
   padding: 10px;
+  color: white;
+
 }
 
 .bg-blu {
